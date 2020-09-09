@@ -1,3 +1,3 @@
 # Ostali-Projekti
 
-Other projects i did while attending collage(business intelligence,project managment,information systems development)
+Other projects i did while attending college(business intelligence,project managment,information systems development)
